@@ -67,22 +67,22 @@ Hi, I'm <a href="https://www.facebook.com/robiussani152/">Robius Sani</a>, a pas
 <p align="center">
     
   <a title="Laravel" href="https://www.laravel.com/">
-    <img src="https://img.shields.io/badge/Laravel%20-%23FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Laravel%20-%23f43f2b.svg?&style=flat-square&logo=laravel&logoColor=white"/>
   </a>
   <a title="Lumen" href="https://lumen.laravel.com/">
-    <img src="https://img.shields.io/badge/Lumen%20-%23FF2D20.svg?&style=flat-square&logo=lumen&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Lumen%20-%23f9966d.svg?&style=flat-square&logo=lumen&logoColor=white"/>
   </a>
   <a title="codeigniter" href="https://codeigniter.com/">
-    <img src="https://img.shields.io/badge/Codeigniter%20-%23FF2D20.svg?&style=flat-square&logo=codeigniter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Codeigniter%20-%23dd4926.svg?&style=flat-square&logo=codeigniter&logoColor=white"/>
   </a>
   <a title="Vue.JS" href="https://vuejs.org/">
-    <img src="https://img.shields.io/badge/VueJs%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>
+    <img src="https://img.shields.io/badge/VueJs%20-%234bb37f.svg?&style=flat-square&logo=vue.js&logoColor=white"/>
   </a>
   <a title="Nuxt JS" href="https://nuxtjs.org/">
-    <img src="https://img.shields.io/badge/NuxtJS-%2335495e.svg?&style=flat-square&logo=nuxt.js&logoColor=%234FC08D"/>
+    <img src="https://img.shields.io/badge/NuxtJS-%232e475b.svg?&style=flat-square&logo=nuxt.js&logoColor=white"/>
   </a>
   <a title="Wordpress" href="https://wordpress.org/">
-    <img src="https://img.shields.io/badge/Wordpress-%2335495e.svg?&style=flat-square&logo=wordpress&logoColor=%234FC08D"/>
+    <img src="https://img.shields.io/badge/Wordpress-%2335495e.svg?&style=flat-square&logo=wordpress&logoColor=white"/>
   </a>  
 </p>
 
@@ -90,16 +90,16 @@ Hi, I'm <a href="https://www.facebook.com/robiussani152/">Robius Sani</a>, a pas
 <p align="center">
     
   <a title="SQLite" href="https://www.sqlite.org/index.html">
-    <img src="https://img.shields.io/badge/SQLite%20-%23003B57.svg?&style=flat-square&logo=sqlite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLite%20-%23449fd8.svg?&style=flat-square&logo=sqlite&logoColor=white"/>
   </a>
   <a title="MYSQL" href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/mysql-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/mysql-%235a839c?style=flat-square&logo=mysql&logoColor=ffffff"/>
   </a>
   <a title="POSTGRESQL" href="https://www.postgresql.org/">
-    <img src="https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL%20-%2332638c.svg?&style=flat-square&logo=postgresql&logoColor=white"/>
   </a>
   <a title="Mongodb" href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/mongodb%20-%23336791.svg?&style=flat-square&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mongodb%20-%23429543.svg?&style=flat-square&logo=mongodb&logoColor=white"/>
   </a>
   
 </p>
@@ -109,16 +109,16 @@ Hi, I'm <a href="https://www.facebook.com/robiussani152/">Robius Sani</a>, a pas
 <h4 align="center"> VERSION CONTROLLING TOOL </h4>
 <p align="center">
   <a title="Git" href="https://git-scm.com/">
-    <img src="https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git%20-%23eb4d29.svg?&style=flat-square&logo=git&logoColor=white"/>
   </a>
   <a title="Gitlab" href="https://gitlab.com/">
-    <img src="https://img.shields.io/badge/Gitlab%20-%23F05033.svg?&style=flat-square&logo=Gitlab&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gitlab%20-%23fca332.svg?&style=flat-square&logo=Gitlab&logoColor=white"/>
   </a>
   <a title="Github" href="http://github.com/">
     <img src="https://img.shields.io/badge/Github%20-%23F05033.svg?&style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a title="Bitbucket" href="http://bitbucket.com/">
-    <img src="https://img.shields.io/badge/Bitbucket%20-%23F05033.svg?&style=flat-square&logo=bitbucket&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bitbucket%20-%232982fa.svg?&style=flat-square&logo=bitbucket&logoColor=white"/>
   </a>
 </p>
 
@@ -127,13 +127,13 @@ Hi, I'm <a href="https://www.facebook.com/robiussani152/">Robius Sani</a>, a pas
 <p align="center">
     
   <a title="VsCode" href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
+    <img src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   </a>
   <a title="Sublime Text" href="https://www.sublimetext.com/3">
-    <img src="https://img.shields.io/badge/-sublime%20text-%23007ACC?style=flat-square&logo=sublime-text" />
+    <img src="https://img.shields.io/badge/-sublime%20text-%23fa9931?style=flat-square&logo=sublime-text&logoColor=white" />
   </a>
   <a title="PHPSTORM" href="https://www.jetbrains.com/phpstorm/">
-    <img src="https://img.shields.io/badge/-PhpStorm-%239250f5?style=flat-square&logo=phpstorm" />
+    <img src="https://img.shields.io/badge/-PhpStorm-%23c669cb?style=flat-square&logo=phpstorm&logoColor=white" />
   </a>    
 </p>
 
@@ -141,16 +141,16 @@ Hi, I'm <a href="https://www.facebook.com/robiussani152/">Robius Sani</a>, a pas
 
 <p align="center">
   <a title="Digitalocean" href="https://www.apache.org/">
-    <img src="https://img.shields.io/badge/DigitalOcean-%23D22128.svg?&style=flat-square&logo=DigitalOcean"/>
+    <img src="https://img.shields.io/badge/DigitalOcean-%230b7efa.svg?&style=flat-square&logo=DigitalOcean&logoColor=white"/>
   </a>
   <a title="APACHE (Web Server)" href="https://www.apache.org/">
-    <img src="https://img.shields.io/badge/Apache-%23D22128.svg?&style=flat-square&logo=apache&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache-%23c33643.svg?&style=flat-square&logo=apache&logoColor=white"/>
   </a>
   <a title="NGINX (Web Server)" href="https://www.nginx.com/">
     <img src="https://img.shields.io/badge/Nginx-%23269539.svg?&style=flat-square&logo=nginx&logoColor=white"/>
   </a> 
   <a title="Cpanel" href="https://cpanel.net/">
-    <img src="https://img.shields.io/badge/Cpanel-%23269539.svg?&style=flat-square&logo=Cpanel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Cpanel-%23ef682b.svg?&style=flat-square&logo=Cpanel&logoColor=white"/>
   </a>  
 </p>
 <hr/>
