@@ -30,11 +30,11 @@ Hi, I'm <a href="https://www.facebook.com/robiussani152/">Robius Sani</a>, a pas
 </p>
 
 <h2 align="center"> GITHUB STATS </h2>
-<p align="left">
+<p align="center">
   <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=robiussani152&show_icons=true&theme=vue-dark&line_height=27">
 </p>
 <hr/>
-<h2 align="center"> MY TECH STACK </h2>
+<h2 align="center"> TECH STACK </h2>
 
 <h3 align="center"> PROGRAMMING LANGUAGES </h3>
 <p align="center">
@@ -158,7 +158,7 @@ Hi, I'm <a href="https://www.facebook.com/robiussani152/">Robius Sani</a>, a pas
 <h2 align="center"> Stackoverflow </h2>
 <p align="center">
   <a href="https://stackoverflow.com/users/6636457/robius-sani">
-  <img title="Robius Sani's Stack Overflow" src="https://github-readme-stackoverflow.vercel.app/?userID=6636457&theme=nightowl" />
+  <img title="Robius Sani's Stack Overflow" src="https://github-readme-stackoverflow.vercel.app/?userID=6636457&theme=dark" />
   </a>
 </p>
 
