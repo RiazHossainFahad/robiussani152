@@ -1,6 +1,5 @@
 <h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  </h1>
-<p align="center">
-<img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robiussani152&theme=solarized-dark"></p>
+
 Hi, I'm <a href="https://www.facebook.com/robiussani152/">Robius Sani</a>, a passionate self-taught Web Application Developer 🚀 from Bangladesh 🇧🇩. I have 3+ years of experience in the field of web technologies.
 
 <h2 align="center">📫 Find me here</h2>
@@ -32,6 +31,7 @@ Hi, I'm <a href="https://www.facebook.com/robiussani152/">Robius Sani</a>, a pas
 <h2 align="center"> GITHUB STATS </h2>
 <p align="center">
   <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=robiussani152&show_icons=true&theme=vue-dark&line_height=27">
+  <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robiussani152&theme=solarized-dark">
 </p>
 <hr/>
 <h2 align="center"> TECH STACK </h2>
@@ -103,9 +103,6 @@ Hi, I'm <a href="https://www.facebook.com/robiussani152/">Robius Sani</a>, a pas
   </a>
   
 </p>
-
-<h3 align="center"> TOOLS USING </h3>
-<hr/>
 <h4 align="center"> VERSION CONTROLLING TOOL </h4>
 <p align="center">
   <a title="Git" href="https://git-scm.com/">
