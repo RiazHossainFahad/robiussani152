@@ -1,6 +1,8 @@
 <h1 align="center"> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  </h1>
 
-Hi, I'm <a href="https://www.facebook.com/robiussani152/">Robius Sani</a>, a passionate self-taught Web Application Developer 🚀 from Bangladesh 🇧🇩. I have 3+ years of experience in the field of web technologies.
+Hi! I am <a href="https://www.facebook.com/robiussani152/">Robius Sani</a> from 🚀 BANGLADESH, a small but potential country on the world map. I have completed my Bachelor of Science (B.Sc.) in Computer Science and Engineering (CSE) from daffodil international university (DIU), Dhaka, Bangladesh in August 2018.
+
+Currently, I am working as a Software Engineer & Team Leader at ITclan BD, I have developed more than 20 web applications in 2019-now. Also, I successfully completed a Training Program in April 2017 on Front-End Development conducted at Freecodecamp.
 
 <h2 align="center">📫 Find me here</h2>
 <p align="center">
@@ -152,12 +154,15 @@ Hi, I'm <a href="https://www.facebook.com/robiussani152/">Robius Sani</a>, a pas
 </p>
 <hr/>
 
-<h2 align="center"> Stackoverflow </h2>
+<h2 align="center"> Stackoverflow & Dev Card </h2>
 <p align="center">
   <a href="https://stackoverflow.com/users/6636457/robius-sani">
   <img title="Robius Sani's Stack Overflow" src="https://github-readme-stackoverflow.vercel.app/?userID=6636457&theme=dark" />
   </a>
+    <a href="https://app.daily.dev/robiussani152"><img src="https://api.daily.dev/devcards/5bd78b20aea44c9396f5ac6dced19b3a.png?r=wq0" width="220" alt="Robius Sani's Dev Card"/></a>
 </p>
+
+
 
 <h2 align="center"> 𝗩ISITORS </h2>
 <p align="center">
